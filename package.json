@@ -1,0 +1,91 @@
+{
+	"name": "vscode-theme-dirt",
+	"displayName": "Dirt Theme Light/Dark",
+	"description": "",
+	"version": "0.4.7",
+	"publisher": "mratorr",
+	"author": {
+		"name": "Mailon Rafael Andrade Torres",
+		"email": "mailontorres@gmail.com"
+	},
+	"homepage": "https://github.com/mratorr/vscode-theme-dirt",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mratorr/vscode-theme-dirt"
+	},
+	"bugs": {
+		"url": "https://github.com/mratorr/vscode-theme-dirt/issues"
+	},
+	"license": "",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"icon": "",
+	"markdown": "github",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dirt",
+		"yellow",
+		"red",
+    "blue",
+    "green",
+    "magenta"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dirt Dark Yellow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-dark-yellow.json"
+			},
+			{
+				"label": "Dirt Dark Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-dark-green.json"
+			},
+			{
+				"label": "Dirt Dark Red",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-dark-red.json"
+			},
+			{
+				"label": "Dirt Dark Magenta",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-dark-magenta.json"
+			},
+			{
+				"label": "Dirt Dark Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-dark-blue.json"
+			},
+			{
+				"label": "Dirt Yellow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-yellow.json"
+			},
+			{
+				"label": "Dirt Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-green.json"
+			},
+			{
+				"label": "Dirt Red",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-red.json"
+			},
+			{
+				"label": "Dirt Magenta",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-magenta.json"
+			},
+			{
+				"label": "Dirt Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dirt-blue.json"
+			}
+		]
+	}
+}
